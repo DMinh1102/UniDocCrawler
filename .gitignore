@@ -1,0 +1,12 @@
+# Generated crawl results
+*_documents.txt
+*_links.txt
+results/
+output/
+outputs/
+data/
+
+# Local runtime files
+node_modules/
+.env
+.env.*

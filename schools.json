@@ -1,0 +1,20 @@
+{
+  "HUST": {
+    "name": "Hanoi University of Science and Technology",
+    "allowedHosts": ["hust.edu.vn"],
+    "pages": [
+      {
+        "url": "https://ctt.hust.edu.vn/DisplayWeb/DisplayBaiViet?baiviet=38014",
+        "allDocumentsRelevant": true
+      },
+      {
+        "url": "https://ctt.hust.edu.vn/DisplayWeb/DisplayBaiViet?baiviet=77",
+        "allDocumentsRelevant": true
+      },
+      {
+        "url": "https://soict.hust.edu.vn/bieu-mau-va-quy-dinh-danh-cho-sinh-vien.html",
+        "allDocumentsRelevant": false
+      }
+    ]
+  }
+}
